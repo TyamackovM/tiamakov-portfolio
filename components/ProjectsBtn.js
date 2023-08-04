@@ -9,7 +9,7 @@ import { HiArrowRight } from 'react-icons/hi2';
 
 const ProjectsBtn = () => {
   return (
-    <div className="mx-auto xl:mx-0">
+    <div className="z-10 mx-auto xl:mx-0">
       <Link 
        href={'/work'}
        className="relative w-[185px] h-[185px] flex justify-center items-center
