@@ -24,8 +24,10 @@ const Services = () => {
               quas neque!
             </p>
           </div>
-          {/* slider */}
-          <ServiceSlider />
+          <div>
+            {/* slider */}
+            <ServiceSlider />
+          </div>
         </div>
       </div>
       <Bulb />
